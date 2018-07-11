@@ -17,3 +17,4 @@ Add your entry under the headings below:
 ## Charlie Team
 
 - :godmode: Jake Culp
+- :panda_face: Veronica Lin

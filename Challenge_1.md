@@ -15,3 +15,4 @@ Add your entry under the headings below:
 ## Beta Team
 
 ## Charlie Team
+- :panda_face: Veronica Lin

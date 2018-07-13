@@ -12,6 +12,8 @@ Add your entry under the headings below:
 
 ## Alpha Team
 
+- :sushi: Woo Song
+
 ## Beta Team
 
 ## Charlie Team

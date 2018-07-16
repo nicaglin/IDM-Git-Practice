@@ -22,3 +22,4 @@ Add your entry under the headings below:
 - :panda_face: Veronica Lin
 - :hammer: Mike Carbone
 - :raising_hand: Hannah Sayer
+- :dog: Sarah Bray

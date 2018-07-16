@@ -12,6 +12,8 @@ Add your entry under the headings below:
 
 ## Alpha Team
 
+- :sushi: Woo Song
+
 ## Beta Team
 
 ## Charlie Team
@@ -19,3 +21,4 @@ Add your entry under the headings below:
 - :godmode: Jake Culp
 - :panda_face: Veronica Lin
 - :hammer: Mike Carbone
+- :raising_hand: Hannah Sayer

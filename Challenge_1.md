@@ -16,6 +16,8 @@ Add your entry under the headings below:
 - :alien: Mel Gross
 ## Beta Team
 
+- :dart: Yuang Li
+
 ## Charlie Team
 
 - :godmode: Jake Culp

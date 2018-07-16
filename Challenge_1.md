@@ -15,6 +15,8 @@ Add your entry under the headings below:
 - :sushi: Woo Song
 - :alien: Mel Gross
 - :vhs: Jordan Zagerman
+- :moyai: Ben Rodia
+
 ## Beta Team
 
 - :dart: Yuang Li

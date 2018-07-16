@@ -16,6 +16,8 @@ Add your entry under the headings below:
 
 ## Beta Team
 
+- :dart: Yuang Li
+
 ## Charlie Team
 
 - :godmode: Jake Culp

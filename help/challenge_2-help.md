@@ -30,9 +30,9 @@ General development workflow:
 
 1. Browse [npmjs.org](http://npmjs.org) and review open source tools for minimizing CSS files (or write your own tool if you're feeling brave)
 1. Install any open source scripts/tools using your NPM package manager in your terminal
-1. Write a single Javascript file that uses your selected tools to minimize the `your\_initials/src/styles.css` file
-1. Write the minimized CSS file into a new directory `your\_initials/dist/styles.css`
+1. Write a single Javascript file that uses your selected tools to minimize the `your_initials/src/styles.css` file
+1. Write the minimized CSS file into a new directory `your_initials/dist/styles.css`
 
 ### Notes
 
-When you install your NPM open source tools, do it from `your\_initials` folder so that your tools are local to your folder and won't interfere or overlap with anyone elses.
+When you install your NPM open source tools, do it from `your_initials` folder so that your tools are local to your folder and won't interfere or overlap with anyone elses.

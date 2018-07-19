@@ -36,7 +36,3 @@ General development workflow:
 ### Notes
 
 When you install your NPM open source tools, do it from `your\_initials` folder so that your tools are local to your folder and won't interfere or overlap with anyone elses.
-
-### Bonus Challenge 💪
-
-Have your script also create a _sourcemap_ file for your minimized CSS.

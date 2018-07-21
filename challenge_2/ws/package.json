@@ -1,0 +1,15 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "Git-Challenge_02_ws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Woo Song",
+  "license": "ISC",
+  "devDependencies": {
+    "uglify-js": "^3.4.5",
+    "uglifycss": "0.0.29"
+  }
+}

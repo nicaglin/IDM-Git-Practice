@@ -9,7 +9,6 @@
   "author": "Woo Song",
   "license": "ISC",
   "devDependencies": {
-    "uglify-js": "^3.4.5",
     "uglifycss": "0.0.29"
   }
 }

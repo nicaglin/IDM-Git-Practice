@@ -1,10 +1,8 @@
 # Challenge 4
 
-Work with your team to expand on your Gulp task runner script.
+Work individually to expand on your Gulp task runner script.
 
 1. Update your Gulp tasks so that every time a change is made to the `./src/stylus/screen.styl` file, not only does Gulp recompile the `.css` file, but it also refreshes the browser automatically so you can see the changes made immediately without have to manually refresh.
-
-Work as a team to create a Gulp based task runner that will:
 
 Remember to checkout a feature branch in your repository to do all of your work in.
 

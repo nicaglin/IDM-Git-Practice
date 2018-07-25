@@ -4,20 +4,19 @@ const stylus = require('gulp-stylus');
 const sourcemaps = require('gulp-sourcemaps');
 
 // Get one .styl file and render
-gulp.task('one', function () {
+gulp.task('style', function () {
   return gulp.src('src/stylus/screen.styl')
     .pipe(stylus())
-    .pipe(gulp.dest('./dist/css'));
-});
-
-gulp.task('sourcemaps-external', function () {
-  return gulp.src('./dist/css/**.css')
     .pipe(sourcemaps.init())
-    .pipe(stylus())
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest('./dist/css'));
 });
 
+gulp.task('copy', function () {
+  return gulp.src('src/views/index.html')
+      .pipe(gulp.dest('./dist/'));
+});
+
 
 // Default gulp task to run
-gulp.task('default', ['one','sourcemaps-external']);
+gulp.task('default', ['style','copy']);

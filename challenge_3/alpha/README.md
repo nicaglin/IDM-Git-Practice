@@ -1,6 +1,8 @@
 # Challenge 3 - Team Alpha
 
-How to Run Task Runners:
+___
 
-1. gulp styles : Compile .stylus file into .css and place it to dist/css
-2. gulp html : Copy and place index.html to dist
+## How to Run:
+1. Run `npm install` in the root of project folder
+2. Run `gulp` to run default tasks: `styles` and `html`
+3. Output files will be created in `dist/`

@@ -21,6 +21,8 @@ Add your entry under the headings below:
 
 - :dart: Yuang Li
 - :pizza: Axel Mortimer
+- :octopus: Katie Zhao
+
 
 ## Charlie Team
 

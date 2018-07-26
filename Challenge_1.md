@@ -23,6 +23,7 @@ Add your entry under the headings below:
 - :pizza: Axel Mortimer
 - :octopus: Katie Zhao
 - :lollipop: Nick Camarata
+- :trollface: George Fee
 
 
 ## Charlie Team

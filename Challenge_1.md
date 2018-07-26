@@ -20,6 +20,7 @@ Add your entry under the headings below:
 ## Beta Team
 
 - :dart: Yuang Li
+- :pizza: Axel Mortimer
 
 ## Charlie Team
 

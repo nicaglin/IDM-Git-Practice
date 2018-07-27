@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "uglifycss": "0.0.29"
+    "fs-extra": "^7.0.0",
+    "uglifycss": "0.0.29",
+    "write": "^1.0.3"
   }
 }

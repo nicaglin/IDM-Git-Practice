@@ -1,0 +1,5 @@
+# Uglify CSS code
+#Below are instructions for running the utility
+
+1. Open the terminal and move into the 'ara' directory inside the 'challenge_2' directory
+2. run $ node uglify.js in the terminal 

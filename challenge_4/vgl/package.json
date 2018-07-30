@@ -1,0 +1,24 @@
+{
+  "name": "challenge_4",
+  "version": "1.0.0",
+  "description": "Challenge 4 Solution",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "sourcemaps"
+  ],
+  "author": "Charlie",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-stylus": "^2.7.0",
+    "gulp-watch": "^5.0.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.24.6"
+  }
+}
